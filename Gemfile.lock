@@ -1,3 +1,10 @@
+GIT
+  remote: http://github.com/pablobfonseca/jekyll-git_metadata.git
+  revision: f1695dc36c0a2d080d8f892ebeb96616acf28b3d
+  specs:
+    jekyll-git_metadata (0.0.3)
+      jekyll (~> 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -127,6 +134,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-git_metadata!
 
 BUNDLED WITH
    1.10.6

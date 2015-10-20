@@ -7,6 +7,8 @@ twitter_username: codetython
 github_username:  codetython
 facebook_username: codetython
 disqus_username: codetython
+gems:
+  - jekyll-git_metadata
 
 authors:
   pablo:
@@ -73,6 +75,8 @@ links:
     url: /categorias
   - title: Core Team
     url: /core_team
+  - title: Contribuições
+    url: /contribuicoes
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

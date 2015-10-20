@@ -1,0 +1,9 @@
+---
+layout: git-contributions
+title: "Contribuições"
+permalink: /contribuicoes/index.html
+---
+
+{% for contributor in site.git.authors %}
+  {% include contribuicoes.html %}
+{% endfor %}
